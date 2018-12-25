@@ -1,0 +1,1 @@
+find cost of multiple svms and c values that forces optimizer to select the hard margin by making hard margin the cheapest option
